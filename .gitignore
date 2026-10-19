@@ -1,0 +1,9 @@
+node_modules
+dist
+.DS_Store
+*.local
+.env
+
+# originals and working files, not needed by the site
+Images/
+Resume/
